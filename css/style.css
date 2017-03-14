@@ -5,3 +5,39 @@ html {
 }
 
 /*put all other styles below this line, please*/
+
+body{
+    font-family: Impact;
+    margin-top: 3em;
+    margin-left: 3em;
+    background-color: #a6d2d8;
+}
+nav{
+    background-color: #a3a8a3;
+    margin-top: 2em;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    right: 0;
+}
+h1{
+    font-size: 3em;
+}
+img{
+    height: 300px;
+    width: auto;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+#book1{
+padding-bottom: 3em;
+}
+#book2{
+padding-bottom: 3em;
+}
+#book3{
+padding-bottom: 3em;
+}
+#book4{
+padding-bottom: 3em;
+}
