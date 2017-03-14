@@ -6,3 +6,4 @@
 ### Contributors
 + Alex Pearson
 + Justin Ruessler
++ Natalie Galucia
