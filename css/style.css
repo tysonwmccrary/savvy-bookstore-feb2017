@@ -7,7 +7,7 @@ html {
 /*put all other styles below this line, please*/
 
 body{
-    font-family: Impact;
+    font-family: Impact, sans-serif;
     margin-top: 3em;
     margin-left: 3em;
     background-color: #a6d2d8;
@@ -29,15 +29,18 @@ img{
     padding-top: 1em;
     padding-bottom: 1em;
 }
+#content > div{
+    padding-bottom: 3em;
+}
 #book1{
-padding-bottom: 3em;
+
 }
 #book2{
-padding-bottom: 3em;
+
 }
 #book3{
-padding-bottom: 3em;
+
 }
 #book4{
-padding-bottom: 3em;
+    
 }
