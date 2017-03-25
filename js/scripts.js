@@ -64,6 +64,15 @@ var generateItem = function generateItem( product ){
     $( "#book" + product.id + " span" ).text( product.id );
 };
 
+var i = 0;
+while (i < books.length) {
+   console.log (books [i].name);
+  generateItem(books[i]);
+  i++;
+
+}
+
+
 generateItem( book1 );
 generateItem( book2 );
 generateItem( book3 );
